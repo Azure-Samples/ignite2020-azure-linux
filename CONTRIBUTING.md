@@ -1,4 +1,4 @@
-# Contributing to [project-title]
+# Contributing to ignite2020-azure-linux
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
@@ -69,7 +69,7 @@ Before you submit your Pull Request (PR) consider the following guidelines:
   * Rebase your fork and force push to your GitHub repository (this will update your Pull Request):
 
     ```shell
-    git rebase master -i
+    git rebase main -i
     git push -f
     ```
 
